@@ -1,0 +1,13 @@
+# Organising with Hashtags 
+
+Monospace doesn't use the classical folder system you're used to, instead it makes use of hashtags.
+
+When you need to get organised, add hastags to the **final line of the document,** and Monospace will handle the grouping for you.
+
+Hashtags can also be nested too, allowing for a greater degree of organisation.
+
+**Use the '#encrypted' tag to protect important work.**
+
+Check the bottom of this file for some examples.
+
+#MonospaceTutorials #example#nested #nosync

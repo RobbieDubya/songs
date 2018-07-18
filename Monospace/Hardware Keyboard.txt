@@ -1,0 +1,12 @@
+# Hardware Keyboard
+
+Formatting can be applied using the the physical keyboard, alongside using touch.
+
+* Bold can be applied by using Ctrl + B
+* Italics can be applied by using Ctrl + I
+* Strikethrough can be applied by using Ctrl + ~
+* Increase size can be applied by using Ctrl + UP
+* Decrease size can be applied by using Ctrl + DOWN
+* Bullet can be applied by using Ctrl + *
+* Quote can be applied by using Ctrl + "
+#MonospaceTutorials #nosync
