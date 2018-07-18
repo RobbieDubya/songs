@@ -1,6 +1,4 @@
-Fan Girl
-========
-
+# Fan Girl
 
 Bb      | F     | Gm    | Eb
 
@@ -19,3 +17,5 @@ Bridge  DOUBLE TIME ..hold
 Soft    Chorus ..
 
 SoloOut Chorus ..
+
+#vivian

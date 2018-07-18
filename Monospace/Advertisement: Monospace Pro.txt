@@ -1,8 +1,0 @@
-# Monospace Pro 
- 
-Upgrade to Monospace Pro to help support development, remove this persistent ad, and enable the following features: 
-
-* ~~Strikethrough Formatting Style~~
-* Cross-Device Sync
-* Customisable Fonts
-#noSync
