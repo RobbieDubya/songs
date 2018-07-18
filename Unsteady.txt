@@ -1,0 +1,22 @@
+Unsteady
+========
+
+Chorus
+
+C#5 A2  | E2 B2
+
+Verse
+
+C#5 B5  | A5 E5
+
+Intro   Chorus * 2
+
+        Chorus * 4 (empty last)
+
+Fill    Verse * 1
+
+        Verse * 4
+        Chorus * 4
+        Verse * 4
+        Chorus * 4
+Out     Chorus * 2 (empty)
