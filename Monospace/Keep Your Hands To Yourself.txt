@@ -1,0 +1,9 @@
+# Keep Your Hands To Yourself
+
+A     | %     | %     | %
+D     | %     | A     | %
+E     | D     | A -   | -
+
+Last two bars breaks when vocals.
+
+#rick

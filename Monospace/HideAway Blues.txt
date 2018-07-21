@@ -1,0 +1,7 @@
+# HideAway Blues
+
+E     | %     | %     | %
+A     | %     | E     | %
+B     | A     | E     | B
+
+#rick
